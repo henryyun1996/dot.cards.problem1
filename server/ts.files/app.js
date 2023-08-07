@@ -33,7 +33,8 @@ models_1.sequelize.sync()
 });
 // general GET request to get api started
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    const message = 'Hello Jeffrey and Alfonso!\nHope you are having a great day!\nI am excited to hear what you think and listen to any feedback you may have!';
+    res.send(message);
 });
 // POST request
 app.post('/collections', (req, res) => __awaiter(void 0, void 0, void 0, function* () {

@@ -24,7 +24,7 @@ sequelize.sync()
 
 // general GET request to get api started
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('Hello Jeffrey and Alfonso! Hope you are having a great day! I am excited to hear what you think and listen to any feedback you may have!');
 });
 
 // POST request
