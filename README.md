@@ -6,7 +6,9 @@ To get started - simply run the command:
 
 "npm install"
 
-** when testing the program - I found that sometimes there are some dependencies that may need to be installed - simply run
+** 
+
+when testing the program - I found that sometimes there are some dependencies that may need to be installed - simply run
 
 "npm install {module name}"
 
