@@ -6,6 +6,12 @@ To get started - simply run the command:
 
 "npm install"
 
+** when testing the program - I found that sometimes there are some dependencies that may need to be installed - simply run
+
+"npm install {module name}"
+
+**
+
 in the terminal or command line. This should start the server, and there will be some logs that helped me track and catch any errors that came my way. The log message that indicates the server is online will read 
 
 "Server online at http://localhost:3000"
